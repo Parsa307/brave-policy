@@ -1,0 +1,12 @@
+{
+    "BraveRewardsDisabled": true,
+    "BraveWalletDisabled": true,
+    "BraveNewsDisabled": true,
+    "BraveVPNDisabled": true,
+    "BraveTalkDisabled": true,
+    "BraveAIChatEnabled": false,
+    "DefaultBrowserSettingEnabled": false,
+    "PasswordManagerEnabled": false,
+    "TorDisabled": true,
+    "DnsOverHttpsMode": "automatic"
+}
