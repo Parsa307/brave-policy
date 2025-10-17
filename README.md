@@ -1,5 +1,7 @@
 # Brave Policy
 
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge-sq.svg)](https://nogithub.codeberg.page)
+
 ## 📋 Sources
 
 - [SlimBrave](https://github.com/ltx0101/SlimBrave)
